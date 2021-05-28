@@ -37,18 +37,16 @@ Download the image, resize to 50x50 pixels, and return the resulting thumbnail.
 
 #### Code Requirements 
 - Include a test suite for the microservice.
-- We recommend using Mocha (https://mochajs.org/).
 - API should reject invalid request inputs.  Test the edge cases!
-- Use modern javascript ES6 syntax.
+- Use Python3 with any framework of your choice (Django preferred).
 
 
 #### Other Requirements 
 - Use Git for version control, and host the project in a Github repository.
 - Project should contain documentation with setup and usage instructions.
-- Project should install all dependencies with “npm install”, should start the server with “npm start”, and should run the test suite with “npm test”.
-- Really, please just don’t use “console.log” as the primary debugging/logging tool.
-- Javascript Style and Linting
-- Use a javascript linter, along with a linting npm script. We like clean code.
+- Project should install all dependencies with “pip”.
+- Really, please just don’t use “print” as the primary debugging/logging tool.
+- Python Style and Linting
 - Dockerize
 - Include a working Dockerfile with the app directory.
 - Push a docker image to public DockerHub, and share the link
@@ -56,9 +54,7 @@ Download the image, resize to 50x50 pixels, and return the resulting thumbnail.
 
 #### Bonus Points 
 - 100% code coverage in test suite.
-- We recommend using Istanbul (https://github.com/gotwarlost/istanbul) to generate code test coverage reports.
 - Extra Documentation
-- Include JSdoc comments and/or Swagger specifications to impress us.
 - Logging / Monitoring
 - Integrate a centralized app logging/monitoring system.
 
