@@ -65,7 +65,7 @@ Email us the following:
 - [Python Django Task](/software-backend-task.md): Usually takes 2-3 hours to complete.
 - [ReactJS Task](/software-frontend-task.md): Usually takes 2-3 hours to complete.
 
-When you’re done, send us the GitHub link for both of these tasks at interviews@keel.com
+When you’re done, send us the GitHub link for both of these tasks at interviews@getkeel.com
 
 **Round 2:** Please keep 1-2 hours free for this call. 
 This will be a tech screening. You'll be tested on: 
@@ -121,7 +121,7 @@ Yes, You can use React/Angular/Vue or any other library of similar complexity.
 
 **Where do I send my GitHub link?**
 
-Email us at interviews@keel.com
+Email us at interviews@getkeel.com
 
 **Is 3 day time period mentioned is for each round (Round 1 and Round 2) or both combined**
 
@@ -135,9 +135,9 @@ It depends on you. As soon as you finish both the rounds. We'll have 2 Skype cal
 
 Sure, Here are few things you can check out:
 
-Website: https://keel.com
+Website: https://getkeel.com
 
-More Info: Email interviews@keel.com
+More Info: Email interviews@getkeel.com
 
 **Is this job remote?**
 
