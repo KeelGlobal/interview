@@ -2,7 +2,7 @@
 
 As we are expanding our capabilities at Keel, we have begun to build a multitude of backend microservices to support and simplify our applications.
 
-Your task is to build a simple stateless microservice in Nodejs, with three major functionalities -
+Your task is to build a simple stateless microservice in Python, with three major functionalities -
 - Authentication
 - JSON patching
 - Image Thumbnail Generation
